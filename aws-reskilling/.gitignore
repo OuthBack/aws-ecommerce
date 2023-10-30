@@ -1,0 +1,7 @@
+codecommit_rsa
+codecommit_rsa.pub
+.env
+node_modules
+.vscode
+request.http
+*.rest
